@@ -37,7 +37,7 @@ STEP 5:Normalizing the data<BR>
 STEP 6:Splitting the data into test and train<BR>
 
 ##  PROGRAM:
-TYPE YOUR CODE HERE
+
 Import Libraries
 ```
 
@@ -148,9 +148,11 @@ Normalize the dataset:
 ![307075193-b982e971-f9dc-4d8d-8fcc-58163db111f2](https://github.com/user-attachments/assets/816b82c0-b589-4a55-b9ac-3a223a3539b8)
 
 Split the dataset:
+
 ![307075366-c0b451e1-40f7-4551-8c2f-a00d6003b38e](https://github.com/user-attachments/assets/f1d746e9-d167-426d-be08-b8c9138b2ea7)
 
 Training and testing model:
+
 ![307075605-01fade29-e4e7-4e0f-a7d7-c0d554cb1885](https://github.com/user-attachments/assets/f533a2d5-f4a2-4bf5-8504-a6f70b2966d4)
 
 
